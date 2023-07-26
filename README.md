@@ -17,3 +17,8 @@ For creating a template file, simple open the stable-diffusion-webui. You should
 You can now create a new txt file with the wanted name (from above example: `tifa-original.txt`). Open the created file, and type (or paste) your prompt. Save the file, and change the extension to `.tpl`. If you want a preview image, you can simple put an image with the same name in the folder. You can also create a new file but with `.txt`, and the content of this file will be used to display a description in the extra network card
 
 ![image](https://i.imgur.com/uW9caVO.png)
+
+## Hiding network tabs
+
+This extension also add the option in Settings > Extra Networks > Hide Extra networks tab.
+With this option, you can hide unused Extra Networks tabs

@@ -10,7 +10,6 @@ class PromptTemplate:
         self.prompt = self.read_template()
 
     def read_template(self):
-        print(f"Reading template: {self.filename}")
         with open(self.filename, "r") as f:
             return f.read()
 
